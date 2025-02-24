@@ -51,7 +51,7 @@ func main(){
 		fmt.Println(value)
 	}
 
-	//for como "do while",
+	//for como do while,
 	//executado pelo menos uma vez
 	var numero2 = 1
 	for ok := true; ok; ok = (numero2 % 2 != 0) {
